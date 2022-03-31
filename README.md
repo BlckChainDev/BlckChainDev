@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlckChainDev, right know learning blockchain and crypto to help secure applications and also building websites on the side, 
 - I would like to contribute to others work and help with projects involving crypto blockchain and IPFS. My currenct top language is Python but I also know
-- HTML, CSS, JS, and some C++.
+- HTML, CSS, JS, and some C++. This account is from my old account fazelastblood.
 - 👀 I’m interested in Learning about ethical hacking and penitration testing to secure more aplication and research secerity, I have been intrested in crypto and
 - how it can affect the earth and are current currency system.
 - 🌱 I’m currently learning Pen testing for web applications using hacker101 bug bounty program, I would like to learn about creating new SHA(Secure Hashing Algorithms)
